@@ -1,4 +1,4 @@
-# Hi there, I'm Nabin - aka [nalem7]
+# Hi there, I'm Nabin - aka [nalem7](youtube)👋
 
 # 💫About Me :
 
