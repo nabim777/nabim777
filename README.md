@@ -1,4 +1,4 @@
-# Hi there, I'm Nabin - aka [nalem7](youtube)👋
+# Hi there, I'm Nabin - aka [nalem7](https://www.linkedin.com/in/nabin-magar-8b6579160/)👋
 
 # 💫About Me :
 
