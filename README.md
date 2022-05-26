@@ -1,4 +1,4 @@
-# Hi there, I'm Nabin - aka [nalem7](https://www.linkedin.com/in/nabin-magar-8b6579160/)👋
+# Hi there, I'm Nabin - aka [nalem7](https://www.instagram.com/_nalem7)👋
 
 # 💫About Me :
 
