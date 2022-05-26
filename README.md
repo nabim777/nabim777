@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Thulo Technology pvt. ltd](https://thulotechnology.com/)
 - 🌱 I’m currently learning Flutter as well as Django
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I love to eat [momo](https://www.facebook.com/memeNEPALofficial/photos/only-momo-lovers-hit-like-/395306757260159/) and play video games & sports
+- ⚡ Fun fact: I love to eat [momo](https://scontent.fktm10-1.fna.fbcdn.net/v/t31.18172-8/14352487_395306757260159_3000704814176701732_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9267fe&_nc_ohc=dVwu5ptcwPIAX-OY3gs&_nc_ht=scontent.fktm10-1.fna&oh=00_AT_9rxWV0csFdXW6p4WT3PN9bkk0x7tzrYovv745bmnecw&oe=62B694EE) and play video games & [sports](https://www.thoughtco.com/thmb/Ziq_fOfglZvLEiEtnQOjA5PoD1c=/736x552/smart/filters:no_upscale()/sports002-56b04dfb3df78cf772ce1589.jpg)
 
 ## 🌐Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_nalem7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-magar-8b6579160/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_nalem7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeIGTY7GhRcByP8IlWuIJ6A) 
