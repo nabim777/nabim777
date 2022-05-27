@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabim777&label=Profile%20views&color=0e75b6&style=flat" alt="nabim777" /> </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"  width="500" height="250" /><img align="right" alt="GIF" src="https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif#.YpDJTR4d-1A.link"  width="210" height="254" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"  width="530" height="250" /><img align="right" alt="GIF" src="https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif#.YpDJTR4d-1A.link"  width="210" height="254" />
 
 # 💫About Me :
 
