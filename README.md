@@ -1,4 +1,4 @@
-# Hi👋 there, I'm Nabin Ale Magar - aka [nalem7](https://www.instagram.com/_nalem7)
+# Hi👋 there, I'm Nabin Ale Magar - aka [nalem7](https://www.facebook.com/nobin.magar.37604303)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabim777&label=Profile%20views&color=0e75b6&style=flat" alt="nabim777" /> </p>
 
