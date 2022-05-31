@@ -2,8 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabim777&label=Profile%20views&color=0e75b6&style=flat" alt="nabim777" /> </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"  width="530" height="260" /><img align="right" alt="GIF" src="https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif#.YpDJTR4d-1A.link"  width="210" height="264" />
+<p><a href="#"><img width="530" height="260" src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"/></a><img alt="GIF" src="https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif#.YpDJTR4d-1A.link"  width="210" height="264" /></p>
 
+<!--
+<img align="left" alt="GIF" src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"  width="530" height="260" /><img align="left" alt="GIF" src="https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif#.YpDJTR4d-1A.link"  width="210" height="264" />
+-->
 
 # 💫About Me :
 
