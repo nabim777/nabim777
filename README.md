@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Flutter as well as Django
 - 😄 Pronouns: he/his
 - 📥 How to reach me: nabinalemagar019@gmail.com
-- ⚡ Fun fact: I love to eat [momo](https://scontent.fktm10-1.fna.fbcdn.net/v/t31.18172-8/14352487_395306757260159_3000704814176701732_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9267fe&_nc_ohc=dVwu5ptcwPIAX-OY3gs&_nc_ht=scontent.fktm10-1.fna&oh=00_AT_9rxWV0csFdXW6p4WT3PN9bkk0x7tzrYovv745bmnecw&oe=62B694EE) and play [video games](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png?crop=1.00xw:1.00xh;0,0&resize=1200:*) & [sports](https://www.thoughtco.com/thmb/Ziq_fOfglZvLEiEtnQOjA5PoD1c=/736x552/smart/filters:no_upscale()/sports002-56b04dfb3df78cf772ce1589.jpg)
+- ⚡ Fun fact: I love to eat [momo](https://i.ibb.co/ScmX9Dm/17342738-489740917816742-4823018553134399259-n.jpg) and play [video games](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png?crop=1.00xw:1.00xh;0,0&resize=1200:*) & [sports](https://www.thoughtco.com/thmb/Ziq_fOfglZvLEiEtnQOjA5PoD1c=/736x552/smart/filters:no_upscale()/sports002-56b04dfb3df78cf772ce1589.jpg)
 - <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" height="15" width="20"> My resume- [click here](https://drive.google.com/file/d/15h5d3aYQy4bJZAsmZYzF9NmvBusUS0ea/view?usp=sharing)
 
 
