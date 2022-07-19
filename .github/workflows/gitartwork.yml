@@ -1,18 +1,18 @@
 name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: nabim777/nabim777@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: nabim777
-            # Text on contribution graph 
-            text: NALEM 7
-       - uses: nabim777/simple-push-action@v1
+on: 
+  push:
+  pull_request:
+  schedule:
+    - cron: '* */24 * * *'
+  workflow_dispatch:  
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: nabim777/gitartwork@v1
+        with:
+           user_name: nabim777
+           text: NALEM 7
+      - uses: nabim777/simple-push-action@v1
