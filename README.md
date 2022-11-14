@@ -14,7 +14,7 @@
 
 # 💫About Me :
 
-- 🔭 I’m currently working on [Thulo Technology Pvt. Ltd](https://thulotechnology.com/)
+<!-- 🔭 I’m currently working on [Thulo Technology Pvt. Ltd](https://thulotechnology.com/) -->
 - 🌱 I’m currently learning Flutter as well as Django
 - 😄 Pronouns: he/his
 - 📥 How to reach me: nabinalemagar019@gmail.com
