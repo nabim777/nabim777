@@ -49,10 +49,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabim777&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-https://docs.google.com/document/d/1Xj-lr1t2nG9p106zoZZnP8wj_4gbaUQgcvdqi2ODyfQ/edit
-
-
 ## 🏆Trophy:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabim777&theme=onedark&column=4&margin-w=15&margin-h=15" alt="nabim777" /></a> </p>
