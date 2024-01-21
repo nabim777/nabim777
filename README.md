@@ -22,7 +22,7 @@
 # 💫About Me :
 
 <!-- 🔭 I’m currently working on [Thulo Technology Pvt. Ltd](https://thulotechnology.com/) -->
-- 🌱 I’m currently learning QA Automation and Vue js
+- 🌱 I’m currently learning QA Automation([playwright](https://playwright.dev/),[Behat](https://docs.behat.org/)) and Vue js
 - 😄 Pronouns: he/his
 - 📥 How to reach me: nabinalemagar019@gmail.com
 - ⚡ Fun fact: I love to eat [momo](https://i.ibb.co/ScmX9Dm/17342738-489740917816742-4823018553134399259-n.jpg) and play [video games](https://youtu.be/iSjulD1sTVY) & [sports](https://www.thoughtco.com/thmb/Ziq_fOfglZvLEiEtnQOjA5PoD1c=/736x552/smart/filters:no_upscale()/sports002-56b04dfb3df78cf772ce1589.jpg)
