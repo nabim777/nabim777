@@ -56,7 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabim777&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 Trophy:
+# 🏆 Trophy:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabim777&theme=onedark&column=4&margin-w=15&margin-h=15" alt="nabim777" /></a> </p>
 
