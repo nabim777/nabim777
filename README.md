@@ -24,13 +24,17 @@
 
 # 💫About Me :
 
-<!-- 🔭 I’m currently working on [Thulo Technology Pvt. Ltd](https://thulotechnology.com/) -->
-- 🌱 I’m currently learning QA Automation([playwright](https://playwright.dev/),[Behat](https://docs.behat.org/)) and [Vue js](https://vuejs.org/)
+<!--- 🌱 I’m currently learning QA Automation([playwright](https://playwright.dev/),[Behat](https://docs.behat.org/)) and [Vue js](https://vuejs.org/)-->
 - 😄 Pronouns: he/his
 - 📥 How to reach me: nabinalemagar019@gmail.com
 - ⚡ Fun fact: I love to eat [momo](https://i.ibb.co/ScmX9Dm/17342738-489740917816742-4823018553134399259-n.jpg) and play [video games](https://youtu.be/iSjulD1sTVY) & [sports](https://www.thoughtco.com/thmb/Ziq_fOfglZvLEiEtnQOjA5PoD1c=/736x552/smart/filters:no_upscale()/sports002-56b04dfb3df78cf772ce1589.jpg)
 - <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" height="15" width="20"> My resume- [click here](https://drive.google.com/file/d/15h5d3aYQy4bJZAsmZYzF9NmvBusUS0ea/view?usp=sharing)
 
+# 💼 Experience
+
+- **QA Automation** ([Playwright](https://playwright.dev/),[Behat](https://docs.behat.org/))
+- **Frontend Development** ([Vue.js](https://vuejs.org/))
+- **DevOps & CI/CD** ([GitHub Actions](https://docs.github.com/actions),[Docker](https://www.docker.com/))
 
 # 🌐Socials :
 
