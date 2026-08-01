@@ -3,17 +3,18 @@ name: Generate Snake
 
 # Controls when the action will run.
 on:
-  schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
+  pull_request:
+  # schedule:
+  #     # every 12 hours
+  #   - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+  # # This command allows us to run the Action automatically from the Actions tab.
+  # workflow_dispatch:
   
-  # Also run on every push on the master branch
-  push:
-    branches:
-    - main
+  # # Also run on every push on the master branch
+  # push:
+  #   branches:
+  #   - main
 
 # The sequence of runs in this workflow:
 jobs:
@@ -25,19 +26,47 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 #v7.0.1
     
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
+      # - name: Generate the snake files in './dist/'
+      #   uses: Platane/snk@v3
+      #   id: snake-gif
+      #   with:
+      #     github_user_name: ${{ github.repository_owner }}
+      #     outputs: |
+      #       dist/github-contribution-grid-snake.svg
+      #       dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      #       dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      #   env:
+      #      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Show build status
+      #   run: git status
+
+      # - name: Push new files to the output branch
+      #   uses: crazy-max/ghaction-github-pages@v3.1.0
+      #   with:
+      #     target_branch: output
+      #     build_dir: dist
+      #     commit_message: Update snake animations
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.TROPY_SECRET }}
+          file: dist/trophy.svg
+          theme: onedark
+          max-rows: 3
+          max-cols: 4
+
+      - name: Upload trophy
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-trophy
+          path: dist/trophy.svg
 
       - name: Show build status
         run: git status
@@ -47,6 +76,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: Update trophy
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TROPY_SECRET }}
