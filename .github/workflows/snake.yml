@@ -41,6 +41,14 @@ jobs:
           #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
            GITHUB_TOKEN: ${{ secrets.TROPY_SECRET }}
 
+      - name: Prepare dist directory
+        run: |
+            sudo apt install tree
+            tree
+            ls -la
+            ls -la dist
+            mkdir -p dist
+
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
@@ -48,7 +56,7 @@ jobs:
           # 'token', 'username', 'file', 'theme', 'max-cols', 'max-rows', 'panel-size', 'margin-width', 'margin-height', 'no-background', 'no-frame'
           username: ${{ github.repository_owner }}
           token: ${{ secrets.TROPY_SECRET }}
-          file: dist/trophy.svg
+          file: ./dist/trophy.svg
           theme: onedark
           max-rows: 3
           max-cols: 4
