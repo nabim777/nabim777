@@ -5,6 +5,11 @@ name: Generate Snake
 on:
   pull_request: 
 
+permissions:
+  contents: write
+  actions: read
+  pull-requests: read
+
   # This command allows us to run the Action automatically from the Actions tab.
   # workflow_dispatch:
   
