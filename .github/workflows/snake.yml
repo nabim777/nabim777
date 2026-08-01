@@ -60,5 +60,9 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.TROPY_SECRET }}
           file: ./trophy.svg
-          max-rows: 2
-          max-cols: 4
+
+      - name: Upload trophy
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-trophy
+          path: ./trophy.svg
