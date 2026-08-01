@@ -42,8 +42,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-           GITHUB_TOKEN: ${{ secrets.TROPY_SECRET }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
@@ -51,7 +50,7 @@ jobs:
           # These are the inputs that can be used for the trophy generation. You can customize them as needed.
           # 'token', 'username', 'file', 'theme', 'max-cols', 'max-rows', 'panel-size', 'margin-width', 'margin-height', 'no-background', 'no-frame'
           username: ${{ github.repository_owner }}
-          token: ${{ secrets.TROPY_SECRET }}
+          token: ${{ secrets.PAT }}
           file: ./dist/trophy.svg
           theme: onedark
           max-rows: 3
@@ -75,4 +74,4 @@ jobs:
           build_dir: dist
           commit_message: Update trophy and snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.TROPY_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

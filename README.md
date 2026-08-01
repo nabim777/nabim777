@@ -61,4 +61,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/nabim777/nabim777/output/trophy.svg" alt="nabim777" /></a> </p>
 
 
+# 🏅 Holopin Badges:
 [![An image of @nabim777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabim777)](https://holopin.io/@nabim777)
