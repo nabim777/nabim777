@@ -27,6 +27,10 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 #v7.0.1
+
+      #for storing the generated files
+      - name: Prepare dist directory
+        run:  mkdir dist
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
@@ -40,14 +44,6 @@ jobs:
         env:
           #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
            GITHUB_TOKEN: ${{ secrets.TROPY_SECRET }}
-
-      - name: Prepare dist directory
-        run: |
-            sudo apt install tree
-            tree
-            ls -la
-            ls -la dist
-            mkdir -p dist
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
