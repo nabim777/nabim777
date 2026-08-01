@@ -60,3 +60,5 @@ jobs:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
           file: ./trophy.svg
+          max-rows: 2
+          max-cols: 4
