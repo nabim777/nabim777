@@ -1,11 +1,11 @@
-# Hi <img src="https://github.com/nabim777/nabim777/assets/61624650/a7fd9b75-e909-4409-b338-9b0638c29aef" height="30" width="35"> there, I'm Nabin Ale Magar - aka [nalem7](https://www.facebook.com/nobin.magar.37604303)
+# Hi <img src="img/hi.gif" height="30" width="35"> there, I'm Nabin Ale Magar - aka [nalem7](https://www.facebook.com/nobin.magar.37604303)
 
 <!--
 [![committers.top badge](https://user-badge.committers.top/nepal/nabim777.svg)](https://user-badge.committers.top/nepal/nabim777)
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabim777&label=Profile%20views&color=0e75b6&style=flat" alt="nabim777" /> </p>
 
-![n](nalem.svg)
+![n](img/nalem.svg)
 
 <!--
 <p><a href="#"><img width="530" height="260" src="https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif"/></a><img alt="GIF" src="https://bestanimations.com/media/flags/1039074932napal-flag-gif.gif#.YpDJTR4d-1A.link"  width="210" height="264" /></p>
