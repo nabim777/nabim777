@@ -1,0 +1,127 @@
+// .config/Code/User/settings.json
+
+{
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": {
+        "*.pyc": "default"
+    },
+    "cucumber.glue": [
+        "**/tests/acceptance/stepDefinitions/*.js",
+        "**/tests/e2e/cucumber/**/**/*.ts",
+        "**/tests/e2e/stepDefinitions/*.js",
+        "**/tests/acceptance/stepDefinitions/*.ts",
+        "tests/acceptance/stepDefinitions/*.js",
+        "tests/acceptance/features/bootstrap/*.php",
+        "tests/TestHelpers/*.php",
+        "**/tests/acceptance/features/**/*.php",
+        "src/test/**/*.java",
+        "features/**/*.js",
+        "features/**/*.jsx",
+        "features/**/*.ts",
+        "features/**/*.tsx",
+        "features/**/*.php",
+        "features/**/*.py",
+        "tests/**/*.py",
+        "tests/**/*.rs",
+        "features/**/*.rs",
+        "features/**/*.rb",
+        "*specs*/**/.cs",
+        "frontend/tests/acceptance/stepDefinitions/*.js"
+    ],
+    "cucumber.parameterTypes": [],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "vue.inlayHints.missingProps": true,
+    "vue.inlayHints.vbindShorthand": true,
+    "vue.server.vitePress.supportMdFile": true,
+    "vue.server.path": "",
+    "vue.splitEditors.layout.left": [
+        "script",
+        "scriptSetup",
+        "styles"
+    ],
+    "vue.splitEditors.layout.right": [
+        "template",
+        "customBlocks"
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "cucumber.features": [
+        "**/tests/e2e/cucumber/features/smoke/**/*.feature",
+        "**/tests/e2e/cucumber/features/**/*.feature",
+        "**/tests/acceptance/features/*.feature",
+        "**/tests/acceptance/feature/*.feature",
+        "src/test/**/*.feature",
+        "features/**/*.feature",
+        "tests/**/*.feature",
+        "*specs*/**/*.feature"
+    ],
+    "files.associations": {
+        "*.feature": "cucumber"
+    },
+    "git-blame.config.inlineBlameHoverMessage": false,
+    "background.editorBackgrounds": [],
+    "background.backgroundAlignment": [
+        "Center Center",
+        "Top Center",
+        "Center Center",
+        "Center Center"
+    ],
+    "background.backgroundOpacity": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "background.backgroundBlur": [
+        "0",
+        "10",
+        "0",
+        "0"
+    ],
+    "workbench.preferredDarkColorTheme": "monokai-charcoal (green)",
+    "workbench.colorTheme": "🌑 DarkCode Contrast++",
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "testing.saveBeforeTest": false,
+    "workbench.settings.applyToAllProfiles": [],
+    // ###############################
+    // custom settings for vs code performance
+    // ###############################
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.codeLens": false,
+    "search.searchOnType": false,
+    "terminal.integrated.gpuAcceleration": "on",
+    "extensions.autoUpdate": false,
+    "editor.showFoldingControls": "mouseover",
+    // Limit the number of lines that VS Code will look at for syntax highlighting
+    "editor.largeFileOptimizations": true,
+    // Disable file watching for large projects (improves performance)
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/node_modules/**": true,
+        "**/.vscode/**": true,
+        "**/dist/**": true
+    },
+    // Use lightweight renderer for HTML/CSS/JS files to improve rendering speed
+    // "editor.rendererType": "auto",
+    // Disable auto-completion for word suggestions (can slow down in large projects)
+    "editor.wordBasedSuggestions": "off",
+    // Disable unnecessary editor animations
+    "editor.cursorBlinking": "solid",
+    // Increase the file search cache
+    "search.useIgnoreFiles": true,
+    "editor.fontLigatures": false,
+    "workbench.colorCustomizations": {},
+    "git.blame.editorDecoration.enabled": false,
+    "git.autofetch": false,
+    "editor.codeActionsOnSave": {},
+    // auto jest test run off
+    "jest.runMode": "on-demand",
+    "git-blame.config.logClickUrls": {
+        
+    },
+}
