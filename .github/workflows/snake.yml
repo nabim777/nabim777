@@ -1,7 +1,6 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# GitHub Action for generating a contribution graph with a snake eating your contributions and trophy.
 name: Generate Snake and Trophy
 
-# Controls when the action will run.
 on:
   schedule:
       # every 12 hours
