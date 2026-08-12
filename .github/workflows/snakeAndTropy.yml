@@ -2,17 +2,18 @@
 name: Generate Snake and Trophy
 
 on:
-  schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
+  pull_request: 
+  # schedule:
+  #     # every 12 hours
+  #   - cron: "0 */12 * * *"
     
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+  # # This command allows us to run the Action automatically from the Actions tab.
+  # workflow_dispatch:
   
-  # Also run on every push on the main branch
-  push:
-    branches:
-    - main
+  # # Also run on every push on the main branch
+  # push:
+  #   branches:
+  #   - main
 
 jobs:
   build:
@@ -50,6 +51,19 @@ jobs:
           max-cols: 4
           margin-width: 15
           margin-height: 15
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e #v2.0.2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true
+          path: ./dist/stats.svg
+          token: ${{ secrets.PAT }}
+
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v7.0.1
+        with:
+           path: ./dist
 
       - name: Show build status
         run: git status
