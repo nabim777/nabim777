@@ -56,7 +56,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e #v2.0.2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&bg_color=0D1117
           path: ./dist/stats.svg
           token: ${{ secrets.PAT }}
 
