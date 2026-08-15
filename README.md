@@ -67,3 +67,4 @@ A collection of presentations I've created while learning and exploring differen
 - [Single Responsibility Principle (SRP)](https://canva.link/f7wn672u0w9mjmv)
 - [Linux File Permissions](https://canva.link/c5uvwjms985qvno)
 - [Retrieval-Augmented Generation (RAG)](https://canva.link/6zjdx2zbn37zpvn)
+- [Thread and Map Reduce](https://canva.link/x21uoju2woivuo3)
